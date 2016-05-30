@@ -31,3 +31,10 @@
 			});
 			setTimeout('updateMsg()', 4000);
 		}
+		$(document).ready(function(){
+		    $("button").click(function(){
+
+		        $("#wrapper").fadeIn(3000);
+		    });
+		});
+
