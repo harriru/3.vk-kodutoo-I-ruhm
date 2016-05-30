@@ -1,0 +1,10 @@
+		#messagewindow {
+			height: 250px;
+			border: 1px solid;
+			padding: 5px;
+			overflow: auto;
+		}
+		#wrapper {
+			margin: auto;
+			width: 438px;
+		}
